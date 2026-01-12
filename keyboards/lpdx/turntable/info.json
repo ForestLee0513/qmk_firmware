@@ -1,7 +1,7 @@
 {
     "url": "https://forestlee.me",
     "manufacturer": "Forest Lee",
-    "keyboard_name": "LPDX IIDX Controller",
+    "keyboard_name": "lpdx",
     "maintainer": "Forest Lee",
     "processor": "RP2040",
     "bootloader": "rp2040",
