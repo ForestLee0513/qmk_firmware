@@ -5,12 +5,12 @@
 
 const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     [0] = LAYOUT(
-        JS_7,   JS_8,   JS_9,   JS_10,
+        JS_10,  JS_9,   JS_11,  JS_12,
         JS_1,   JS_3,   JS_5,   KC_TRNS,
         JS_0,   JS_2,   JS_4,   JS_6
     )
-
 };
+
 static uint16_t current_position = 0;
 int16_t joystick_position = 0;
 int16_t full_rotation_angle = 4096;     // AS5600 12-bit resolution (0-4095)
