@@ -1,6 +1,6 @@
 {
     "manufacturer": "Forest Lee",
-    "keyboard_name": "lpdx",
+    "keyboard_name": "LPDX_IIDX_Controller",
     "maintainer": "Forest Lee",
     "bootloader": "rp2040",
     "diode_direction": "COL2ROW",
